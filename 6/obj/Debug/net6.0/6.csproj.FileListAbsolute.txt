@@ -1,0 +1,15 @@
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\bin\Debug\net6.0\6.exe
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\bin\Debug\net6.0\6.deps.json
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\bin\Debug\net6.0\6.runtimeconfig.json
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\bin\Debug\net6.0\6.dll
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\bin\Debug\net6.0\6.pdb
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\6.csproj.AssemblyReference.cache
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\6.AssemblyInfoInputs.cache
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\6.AssemblyInfo.cs
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\6.csproj.CoreCompileInputs.cache
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\6.dll
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\refint\6.dll
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\6.pdb
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\6.genruntimeconfig.cache
+C:\Users\brokerr\Desktop\Учеба\ПГУ\Афонин\лабы 1,2,3,6,8,10\6\obj\Debug\net6.0\ref\6.dll
