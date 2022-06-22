@@ -6,7 +6,7 @@ double IntegralPr(double a, double b, double h)
 	double s = 0;
 	for (double i = a; i < b - h; i += h)
     {
-		s = s + (f(i) + f(i + h)) / 2 * h;
+		s = s + (Math.Sin(-(f(i)+2))) / (2 - Math.Cos(f(i)));
 	}
 	return s;
 }
